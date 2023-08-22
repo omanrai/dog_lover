@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "913479161047",
+    "project_id": "tech-hanger-67ef5",
+    "storage_bucket": "tech-hanger-67ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913479161047:android:fd2b109422b4b7a8790c92",
+        "android_client_info": {
+          "package_name": "com.techhanger.doglovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913479161047-99b9cn4ckgaboan80kp7gqpcsol5figh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techhanger.doglovers",
+            "certificate_hash": "b2ef150bac565192408bc6fbadc47f29d1a47ca8"
+          }
+        },
+        {
+          "client_id": "913479161047-d6ltoschc122c40fqicgtmtfn6jm4qn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techhanger.doglovers",
+            "certificate_hash": "c24963aac478ce895e56662a8771c71631f3cbe0"
+          }
+        },
+        {
+          "client_id": "913479161047-m5jihofpon27bqovd85puh8eaqd41sip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techhanger.doglovers",
+            "certificate_hash": "6de27cc83e06dd5872d05f90c7cffb642c9980bb"
+          }
+        },
+        {
+          "client_id": "913479161047-mqrqprbi6a0acptbatur2mfkc55heemm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZX_d_hDYoBKbDBWE4T06RphR9D2wmP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913479161047-ispj2g31bqcb8d4fj9ngec89dkt8r1rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
